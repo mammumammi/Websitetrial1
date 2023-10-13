@@ -1,0 +1,205 @@
+body h1 {
+   text-align: center;
+}
+   .center
+    {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+   #himg1 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg1:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg2 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg2:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg3 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg3:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg4 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg4:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg5 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg5:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg6 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg6:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg7 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg7:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg8 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg8:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg9 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg9:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg10 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg10:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg11 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg11:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg12 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg12:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg13 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg14:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg15 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg15:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
+    #himg16 {
+      padding: 50px;
+      transition: transform .2s;
+      width: 50px;
+      height: 50px;
+      margin: 0;
+    }
+    
+    #himg16:hover {
+      -ms-transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+    }
